@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadRaafat89
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me MuhammadRaafat89@Gmail.com
 
